@@ -1,0 +1,7 @@
+{
+    "host":"localhost",
+    "user":"root",
+    "password":"a1597564",
+    "port":"3306",
+    "database":"opentutorials"
+}
